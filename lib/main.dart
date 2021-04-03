@@ -52,7 +52,7 @@ class _MyAppState extends State<MyApp> {
 
   var _questionIndex = 0;
   var _totalScore = 0;
-  var _test = 0;
+  var _clone = 0;
 
   void _resetQuiz() {
     setState(() {
